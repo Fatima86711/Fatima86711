@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/UET%20Taxila-Software%20Engineering-14B8A6?style=for-the-badge&logo=graduation-cap&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Open%20to-Internships-F59E0B?style=for-the-badge&logo=briefcase&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Coding%20%26%20Building-8B5CF6?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
 ---

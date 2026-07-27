@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">Software Engineering Student | Full-Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Building+full-stack+products+with+Django+%2B+React;Integrating+LLMs+into+real+apps+(Groq%2C+Cohere%2C+Gemini);Turning+ideas+into+working+software+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Building+full-stack+productst;Integrating+LLMs+into+real+apps+(Groq%2C+Cohere%2C+Gemini);Turning+ideas+into+working+software+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">

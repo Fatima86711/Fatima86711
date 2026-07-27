@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Fatima86711/Fatima86711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,14 +28,7 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://img.shields.io/badge/Status-Coding%20%26%20Building-8B5CF6?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
----
 
-
-### 💬 Ask me about
-
-`Django & DRF` · `MERN Stack` · `React + Tailwind` · `LLM integrations (Groq, Cohere, Gemini)` · `Playwright web scraping` · `System design for student → production projects`
-
----
 
 ### 🛠️ Tech Stack
 
